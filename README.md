@@ -1,1 +1,1 @@
-# moving_model
+# moving_model  and auto rotating model
